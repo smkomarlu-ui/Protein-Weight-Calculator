@@ -1,3 +1,6 @@
+
+#define the function and set up a dictionary for key-value pairs for amino acid one-letter codes and their respective molecular weight in Daltons
+
 def calculate_protein_properties(sequence):
     #these are all the avg molecular weights of the amino acids (in Daltons)
     avg_molecular_weights = {
