@@ -1,4 +1,4 @@
-# Protein Molecular Weight Calculator 🧬
+# Protein Molecular Weight Calculator 
 
 A Python script that calculates the molecular weight (in Daltons) of a protein from its amino acid sequence, using average residue masses and accounting for water loss during peptide bond formation.
 
